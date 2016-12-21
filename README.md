@@ -1,2 +1,3 @@
 # PHPProject
-php project for teaching
+
+Pizza exmaple for php program
