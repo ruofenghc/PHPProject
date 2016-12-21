@@ -1,0 +1,41 @@
+<!--
+ Menu configure 
+ Author: Chao Hu
+ Date: 11/28/2016
+-->
+<menu>
+    <category name="Pizzas">
+        <item name="Tomato &amp; Cheese">
+            <size type="small" id="100">5.50</size>
+            <size type="large" id="101">9.75</size>
+        </item>
+        <item name="Onions">
+            <size type="small" id="110">6.85</size>
+            <size type="large" id="111">10.85</size>
+        </item>
+        <item name="Peppers">
+            <size type="small" id="120">6.85</size>
+            <size type="large" id="121">10.85</size>
+        </item>
+        <item name="Fresh Garlic">
+            <size type="small" id="130">6.85</size>
+            <size type="large" id="131">10.85</size>
+        </item>
+    </category>
+    <category name="Salads">
+        <item name="Graden">
+            <size type="small" id="200">3.50</size>
+            <size type="large" id="201">4.50</size>
+        </item>
+        <item name="Greek">
+            <size type="small" id="210">4.50</size>
+            <size type="large" id="211">5.50</size>
+        </item>
+		<item name="Chef">
+            <size type="small" id="220">4.50</size>
+            <size type="large" id="221">5.50</size>
+        </item>
+    </category>
+
+
+</menu>
